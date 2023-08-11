@@ -1,0 +1,9 @@
+:root{
+    --cor-azul-secundaria: #0b26c0;
+    --cor-azul: #002F52;
+    --cor-dourada: #EB9B00;
+    --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --azul-gradient: linear-gradient(160deg, #002F52 0%, #326589 100%);
+    --preto:#000000;
+    --branco: #F2F2F2;
+}

@@ -1,0 +1,23 @@
+@import '../Componentes/Style/Style.css';
+
+.Container__logo{
+    display: flex;
+    align-items: center;
+    background-color: var(--preto);
+    width: 100%;
+}
+
+.Logo__titulo{
+    margin: 5px 0 5px 20px;
+    color: var(--cor-azul-secundaria);
+    padding: 20px;
+}
+
+.Logo__titulo span{
+    color: var(--branco);
+}
+
+.Logo__links__item{
+    color: var(--cor-dourada);
+    margin-left: 20px;
+}
